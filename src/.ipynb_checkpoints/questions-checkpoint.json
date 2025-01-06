@@ -1,0 +1,85 @@
+{
+  "questions": [
+    {
+      "id": 0,
+      "text": "What is Python?",
+      "category": "programming",
+      "created_at": "2025-01-05T18:40:35.060244"
+    },
+    {
+      "id": 1,
+      "text": "How do I define a function?",
+      "category": "programming",
+      "created_at": "2025-01-05T18:40:35.061242"
+    },
+    {
+      "id": 2,
+      "text": "What is the capital of France?",
+      "category": "geography",
+      "created_at": "2025-01-05T18:40:35.062146"
+    },
+    {
+      "id": 3,
+      "text": "What is the role of backpropagation in neural networks?",
+      "category": "ai",
+      "created_at": "2025-01-05T19:43:40.806304"
+    },
+    {
+      "id": 4,
+      "text": "How do transformers process sequential data?",
+      "category": "ai",
+      "created_at": "2025-01-05T19:43:41.991060"
+    },
+    {
+      "id": 5,
+      "text": "What are the main types of machine learning?",
+      "category": "ai",
+      "created_at": "2025-01-05T19:43:42.003635"
+    },
+    {
+      "id": 6,
+      "text": "Can you explain how deep learning differs from traditional ML?",
+      "category": "ai",
+      "created_at": "2025-01-05T19:43:42.940399"
+    },
+    {
+      "id": 7,
+      "text": "Deep Learning and Neural Networks: A Primer\n\nWhat are neural networks?",
+      "category": null,
+      "created_at": "2025-01-05T19:49:38.153479"
+    },
+    {
+      "id": 8,
+      "text": "How do they learn from data?",
+      "category": null,
+      "created_at": "2025-01-05T19:49:43.227716"
+    },
+    {
+      "id": 9,
+      "text": "Would you please explain the different types of neural networks?",
+      "category": null,
+      "created_at": "2025-01-05T19:49:54.320996"
+    },
+    {
+      "id": 10,
+      "text": "Hey, can anyone tell\nme the difference between supervised and unsupervised learning?",
+      "category": null,
+      "created_at": "2025-01-05T19:49:58.262532"
+    }
+  ],
+  "categories": {
+    "programming": [
+      0,
+      1
+    ],
+    "geography": [
+      2
+    ],
+    "ai": [
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}

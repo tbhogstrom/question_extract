@@ -1,0 +1,5 @@
+
+    This is a sample document. What is the meaning of life?
+    How do we process text effectively? The system should handle
+    various types of questions. Would you please explain the process?
+    
